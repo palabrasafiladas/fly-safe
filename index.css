@@ -1,0 +1,66 @@
+.text-platzi {
+  color: #75c2af !important;
+}
+
+
+.btn-platzi {
+  background-color: #75c2af;
+  color: white;
+}
+
+.btn-platzi:hover {
+  background-color: #5c9b8b;
+}
+
+
+#header img {
+  width: 80px;
+ 
+}
+
+#main .carousel-inner img {
+  max-height: 70vh;
+  object-fit: cover;
+  filter: grayscale(20%);
+}
+
+#carousel {
+  position: relative;
+}
+
+#carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+}
+
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+  height: 100%;
+}
+
+#place-time {
+  background-color: #3c9d9b;
+  color: white;
+}
+
+#place-time img {
+  max-width: 100%;
+}
+
+#footer {
+  background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+
+#footer a {
+  color: white;
+}
+
+.aeropuerto {
+  margin-top: 100px;
+}
