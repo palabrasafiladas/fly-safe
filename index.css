@@ -47,11 +47,28 @@
 #place-time {
   background-color: #3c9d9b;
   color: white;
+  margin: 0%;
+
 }
 
 #place-time img {
   max-width: 100%;
+  
 }
+#aeropuertodiv { 
+  padding: 2%;
+ }
+.text-aeropuerto  { 
+  padding: 2%;
+ }
+ #h2aer  { 
+  padding: 2%;
+  text-align: center;
+ }
+
+ #aeropuerto { 
+ max-width: 100%;
+ }
 
 #footer {
   background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
@@ -61,6 +78,12 @@
   color: white;
 }
 
-.aeropuerto {
-  margin-top: 100px;
-}
+
+
+
+.itinerario { 
+  background-color:black;
+  text-align: center;
+  color:  white;
+  padding:3%;
+ }
